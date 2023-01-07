@@ -3,6 +3,7 @@
 </center>
 
 * EmpereurMiro#0024 (Discord)
-* t.me/EmpereurMiro (Telegram)
+* [t.me/EmpereurMiro](https://t.me/EmpereurMiro) (Telegram)
 
+* Visitor Count<br>
 ![Visitor Count](https://profile-counter.glitch.me/EmpereurMiro/count.svg)
